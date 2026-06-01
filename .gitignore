@@ -1,0 +1,10 @@
+# Build outputs (the built .gha is copied to dist/ for distribution)
+bin/
+obj/
+
+# Local development docs and tooling
+docs/
+.claude/
+
+# macOS
+.DS_Store
