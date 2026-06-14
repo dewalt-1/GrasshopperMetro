@@ -15,8 +15,8 @@ namespace Metro
                 name: "Phasor",
                 nickname: "Phasor",
                 description: "Sawtooth ramp LFO driven by an optional Count input. Output in [0, 1) (wraps at 1).",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Signals")
         {
         }
 

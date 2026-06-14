@@ -15,8 +15,8 @@ namespace Metro
                 name: "Noise",
                 nickname: "Noise",
                 description: "Random value generator driven by an optional Count input. Output in [0, 1].",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Signals")
         {
         }
 

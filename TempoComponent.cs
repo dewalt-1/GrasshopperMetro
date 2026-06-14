@@ -15,8 +15,8 @@ namespace Metro
                 name: "Tempo",
                 nickname: "Tempo",
                 description: "Like Metro, but specifies the tick rate in BPM (beats per minute).",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Time")
         {
         }
 

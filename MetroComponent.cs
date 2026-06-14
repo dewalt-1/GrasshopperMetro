@@ -10,8 +10,8 @@ namespace Metro
                 name: "Metro",
                 nickname: "Metro",
                 description: "A clock that fires at a fixed interval. Ports Max/MSP's metro object.",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Time")
         {
         }
 

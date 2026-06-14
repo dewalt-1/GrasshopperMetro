@@ -164,7 +164,7 @@ cp bin/Release/net7.0/Metro.gha \
    "$HOME/Library/Application Support/McNeel/Rhinoceros/8.0/Plug-ins/Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)/Libraries/"
 ```
 
-Then restart Rhino. The components appear under **Params → Util** as "Metro", "Tempo", "Delay", "Cycle", "Phasor", and "Noise".
+Then restart Rhino. The components appear under a dedicated **Metro** tab on the Grasshopper ribbon, split into two subcategories: **Time** (Metro, Tempo, Delay) and **Signals** (Cycle, Phasor, Noise).
 
 If Grasshopper refuses to load the plugin, clear the macOS quarantine attribute:
 

@@ -19,8 +19,8 @@ namespace Metro
                 name: "Delay",
                 nickname: "Delay",
                 description: "Delays an incoming Bang by N milliseconds. Edge-triggered on the Bang input.",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Time")
         {
         }
 

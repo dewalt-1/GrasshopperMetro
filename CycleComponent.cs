@@ -15,8 +15,8 @@ namespace Metro
                 name: "Cycle",
                 nickname: "Cycle",
                 description: "Sine wave LFO driven by an optional Count input. Output in [-1, 1].",
-                category: "Params",
-                subCategory: "Util")
+                category: "Metro",
+                subCategory: "Signals")
         {
         }
 
